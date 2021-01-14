@@ -447,6 +447,9 @@ a.ft{
     .en{
         margin-left: 11vw;
     }
+    .pad{
+        padding-bottom: 9vh !important;
+    }
 }
 @media(max-width:325px){
     a.title{
